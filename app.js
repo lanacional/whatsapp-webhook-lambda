@@ -1,7 +1,7 @@
 let response;
 const VERIFY_TOKEN = "0854f17854f1581267c6f332683682e9"; // [Facebook Developers -> WhatsApp -> Configuration -> Webhook -> Verify token]
 const API_HOSTNAME = "graph.facebook.com";
-const API_PATH = "/v13.0/115095327872757/messages";
+const API_PATH = "/v16.0/115095327872757/messages";
 const TOKEN = "854f1581267c6f33268"; // [Facebook Developers -> WhatsApp -> Getting Started -> Temporary access token] OR [Facebook Developers -> WhatsApp -> Configuration -> Permanent token]
 const BOT_NAME = "La Nacional";
 
